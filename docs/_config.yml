@@ -1,0 +1,14 @@
+title: wxgl
+lang: cn
+description: 基于PyOpenGL的跨平台三维数据快速可视化工具包
+
+remote_theme: rundocs/jekyll-rtd-theme
+
+readme_index:
+  with_frontmatter: true
+
+exclude:
+  - Makefile
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
